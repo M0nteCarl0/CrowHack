@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "lQLfVlaZ8NWLRDVCOnv7y6aVpb0xaxqSVILGBmiWL5RSWArqe32K3RfokgUciJ/x5uxhYQpN16+8NRFlh5+Lzw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Afalex\\source\\repos\\APT28\\VirusTotalChecker\\VirusTotalChecker.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Afalex\\.nuget\\packages\\materialdesigncolors\\1.2.6\\materialdesigncolors.1.2.6.nupkg.sha512",
+    "C:\\Users\\Afalex\\.nuget\\packages\\materialdesignthemes\\3.1.3\\materialdesignthemes.3.1.3.nupkg.sha512",
+    "C:\\Users\\Afalex\\.nuget\\packages\\system.text.json\\4.7.2\\system.text.json.4.7.2.nupkg.sha512"
+  ],
+  "logs": []
+}

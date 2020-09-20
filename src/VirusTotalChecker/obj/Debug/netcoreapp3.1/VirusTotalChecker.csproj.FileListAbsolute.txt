@@ -1,0 +1,16 @@
+C:\Users\Afalex\source\repos\APT28\VirusTotalChecker\obj\Debug\netcoreapp3.1\VirusTotalChecker.AssemblyInfoInputs.cache
+C:\Users\Afalex\source\repos\APT28\VirusTotalChecker\obj\Debug\netcoreapp3.1\VirusTotalChecker.AssemblyInfo.cs
+C:\Users\Afalex\source\repos\APT28\VirusTotalChecker\bin\Debug\netcoreapp3.1\VirusTotalChecker.exe
+C:\Users\Afalex\source\repos\APT28\VirusTotalChecker\bin\Debug\netcoreapp3.1\VirusTotalChecker.deps.json
+C:\Users\Afalex\source\repos\APT28\VirusTotalChecker\bin\Debug\netcoreapp3.1\VirusTotalChecker.runtimeconfig.json
+C:\Users\Afalex\source\repos\APT28\VirusTotalChecker\bin\Debug\netcoreapp3.1\VirusTotalChecker.runtimeconfig.dev.json
+C:\Users\Afalex\source\repos\APT28\VirusTotalChecker\bin\Debug\netcoreapp3.1\VirusTotalChecker.dll
+C:\Users\Afalex\source\repos\APT28\VirusTotalChecker\bin\Debug\netcoreapp3.1\VirusTotalChecker.pdb
+C:\Users\Afalex\source\repos\APT28\VirusTotalChecker\obj\Debug\netcoreapp3.1\VirusTotalChecker.dll
+C:\Users\Afalex\source\repos\APT28\VirusTotalChecker\obj\Debug\netcoreapp3.1\VirusTotalChecker.pdb
+C:\Users\Afalex\source\repos\APT28\VirusTotalChecker\obj\Debug\netcoreapp3.1\VirusTotalChecker.genruntimeconfig.cache
+C:\Users\Afalex\source\repos\APT28\VirusTotalChecker\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\Afalex\source\repos\APT28\VirusTotalChecker\obj\Debug\netcoreapp3.1\VirusTotalChecker.csproj.CopyComplete
+C:\Users\Afalex\source\repos\APT28\VirusTotalChecker\bin\Debug\netcoreapp3.1\MaterialDesignColors.dll
+C:\Users\Afalex\source\repos\APT28\VirusTotalChecker\bin\Debug\netcoreapp3.1\MaterialDesignThemes.Wpf.dll
+C:\Users\Afalex\source\repos\APT28\VirusTotalChecker\obj\Debug\netcoreapp3.1\VirusTotalChecker.csproj.CoreCompileInputs.cache
